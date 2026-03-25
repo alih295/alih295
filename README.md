@@ -7,8 +7,8 @@
 ## 🚀 About Me
 
 * 💻 Full Stack Developer (MERN Stack)
-* 🔥 Building modern & scalable web apps
-* 🎯 Focused on clean UI & strong backend
+* 🔥 Building scalable & modern web apps
+* 🎯 Clean UI + Strong Backend
 
 ---
 
@@ -30,22 +30,32 @@
 
 ### 🛒 E-Commerce Web App
 
-* MERN Stack
-* Auth + Cart + Admin Panel
-  🔗 https://github.com/alih295/Perfume-Store
-
----
+🔗 https://github.com/hafizalihaider295/ecommerce-project
 
 ### 🌐 Portfolio
 
 🔗 https://portfoliosite-silk.vercel.app/
 
 ---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafizalihaider295&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafizalihaider295\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider295&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider295\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak (Backup Stats)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hafizalihaider295\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🌐 Connect With Me
