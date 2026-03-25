@@ -1,35 +1,60 @@
-Welcome to [Ali Haider]'s GitHub Profile!
-👋 Hello, I'm [Ali Haider]! Welcome to my GitHub space. Feel free to explore and get to know more about me.
+# 👋 Hi, I'm Ali Haider
 
-About Me
-I am a passionate [Web Developer] with a keen interest in [Front-end]. I enjoy [studying] in my free time.
+🚀 Full Stack MERN Developer
 
-🔭 Current Focus
-Currently working on [e-comerece website]
-Exploring [backend web development]
-🌱 What I'm Learning
-I'm always eager to learn new things. Right now, I'm focusing on improving my skills in [Web development].
+---
 
-💬 Ask Me About
-[front end In web development]
-[empty]
-📫 How to Reach Me
-Email: [hafizalihaider295@gmail.com]
+## 🚀 About Me
 
-😄 Pronouns
-[He]
+* 💻 Full Stack Developer (MERN Stack)
+* 🔥 Building modern & scalable web apps
+* 🎯 Focused on clean UI & strong backend
 
-⚡ Fun Fact
-[I have a secret talent for turning everyday objects into interactive web elements.
-Once, I transformed my coffee mug into a clickable button using just HTML and CSS. 
-☕️💻 It's all about bringing a touch of creativity to the world of code! What can I say?
-I believe in making the web not only functional but also a bit whimsical. 🚀✨]
+---
 
-📊 GitHub Stats
-[Include a GitHub Stats Card - You can use shields.io or a similar service]
+## 🛠️ Tech Stack
 
-GitHub Stats
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 
-🌐 Find Me Around the Web
-[Personal Website/Blog]
-[Other Social Media Profiles]
+---
+
+## 🔥 Featured Projects
+
+### 🛒 E-Commerce Web App
+
+* MERN Stack
+* Auth + Cart + Admin Panel
+  🔗 https://github.com/alih295/Perfume-Store
+
+---
+
+### 🌐 Portfolio
+
+🔗 https://portfoliosite-silk.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizalihaider295\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider295\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* 🌍 Portfolio: https://portfoliosite-silk.vercel.app/
+* 💼 LinkedIn: https://www.linkedin.com/in/hafiz-ali-haider-asghar-987992368/
+
+---
+
+⭐ Thanks for visiting!
