@@ -37,7 +37,7 @@
 - Built using JavaScript / React  
 - Interactive Chess Board with Rules  
 - Play vs Computer or Two Players  
-🔗 *(#)*  
+🔗 https://github.com/alih295/chess-clone  
 
 ### 🌐 Portfolio
 - Personal portfolio to showcase projects  
